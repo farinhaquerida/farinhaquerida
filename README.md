@@ -1,16 +1,13 @@
-## Hi there 👋
+**Boas Vindas ao meu perfil** 💙
 
-<!--
-**farinhaquerida/farinhaquerida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Maria Eduarda, mas me chamam de DUDA.
+Gosto muito de series, e amo ler livros princialmente de romance.
+Estiu estudando na Alura
+Estou desenvolvendo o JavaScritp
+Utilizo esse espaço para minha organização e compartilhar os projetos.
 
-Here are some ideas to get you started:
+**você entra em contato cmg**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001105248616sp@al.educacao.sp.gov.br 
+
+![](https://media1.tenor.com/m/HT5Ote2ukHEAAAAC/bridgerton-benedict.gif)
